@@ -37,7 +37,7 @@ Using **Power BI**, I created interactive dashboards to visualize:
 - Top genres and ratings  
 - Country-based content production  
 
-*(Dashboard screenshots can be found in the project files.)*
+Dashboard screenshots can be found in the project files.
 
 ##  Skills Demonstrated
 - Data Cleaning and Preparation  
